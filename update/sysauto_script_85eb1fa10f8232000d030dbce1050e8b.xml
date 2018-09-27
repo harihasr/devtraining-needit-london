@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysauto_script">
     <sysauto_script action="INSERT_OR_UPDATE">
         <active>true</active>
         <condition/>
